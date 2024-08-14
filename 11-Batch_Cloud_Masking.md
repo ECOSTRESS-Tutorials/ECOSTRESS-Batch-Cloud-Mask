@@ -5,11 +5,9 @@
 
 # Table of Contents
 
-[What is a Cloud Mask?
-[1](#what-is-a-cloud-mask)](#what-is-a-cloud-mask)
+[What is a Cloud Mask?](#what-is-a-cloud-mask)
 
-[Applying a Cloud Mask to a Batch of Images
-[1](#applying-a-cloud-mask-to-a-batch-of-images)](#applying-a-cloud-mask-to-a-batch-of-images)
+[Applying a Cloud Mask to a Batch of Images](#applying-a-cloud-mask-to-a-batch-of-images)
 
 # What is a Cloud Mask?
 
