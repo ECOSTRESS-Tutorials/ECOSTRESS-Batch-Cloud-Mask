@@ -31,20 +31,20 @@ these files, see the **Downloading from AppEEARS** tutorial.
     Folder**. Name your new folder so that you know it is the main
     project folder.
 
-<img src="11-Batch_Cloud_Masking_images/media/image1.png"
+<img src="Batch_Cloud_Masking_images/media/image1.png"
 style="width:3.65064in;height:2.11628in"
 alt="Graphical user interface, application Description automatically generated" />
 
 3.  **Move** the **downloaded code** file into the project folder.
 
-<img src="11-Batch_Cloud_Masking_images/media/image2.png"
+<img src="Batch_Cloud_Masking_images/media/image2.png"
 style="width:3.93165in;height:2.27372in"
 alt="Graphical user interface, application Description automatically generated" />
 
 4.  **Move** the folder with your **downloaded ECOSTRESS data** into the
     project folder.
 
-<img src="11-Batch_Cloud_Masking_images/media/image3.png"
+<img src="Batch_Cloud_Masking_images/media/image3.png"
 style="width:3.9851in;height:2.52006in"
 alt="Graphical user interface, application Description automatically generated" />
 
@@ -53,7 +53,7 @@ alt="Graphical user interface, application Description automatically generated" 
     folder, **right click**, and select **New Folder**. Then name the
     folder so that you know it is for the **outputs**.
 
-<img src="11-Batch_Cloud_Masking_images/media/image4.png"
+<img src="Batch_Cloud_Masking_images/media/image4.png"
 style="width:4.0984in;height:2.35833in"
 alt="Graphical user interface, application Description automatically generated" />
 
@@ -62,9 +62,9 @@ alt="Graphical user interface, application Description automatically generated" 
     ECOSTRESS files, the Batch_Cloud_Mask code, and the output
     subfolder.
 
-| <img src="11-Batch_Cloud_Masking_images/media/image5.png"
+| <img src="Batch_Cloud_Masking_images/media/image5.png"
 style="width:1.86602in;height:2.12123in"
-alt="Graphical user interface, text, application Description automatically generated" /> | <img src="11-Batch_Cloud_Masking_images/media/image6.png"
+alt="Graphical user interface, text, application Description automatically generated" /> | <img src="Batch_Cloud_Masking_images/media/image6.png"
 style="width:2.24894in;height:2.11218in"
 alt="Graphical user interface, text, application Description automatically generated" /> |
 |----|----|
@@ -72,7 +72,7 @@ alt="Graphical user interface, text, application Description automatically gener
 7.  In the **EXPLORER** tab, find the **Batch_Cloud_Mask** code and
     **click** on it to open it.
 
-> <img src="11-Batch_Cloud_Masking_images/media/image7.png"
+> <img src="Batch_Cloud_Masking_images/media/image7.png"
 > style="width:4.55762in;height:2.75064in"
 > alt="Graphical user interface, text, application Description automatically generated" />
 
@@ -85,7 +85,7 @@ because it will guide you to which parts you may want to change!
 
 **Examples** of comments (**green text following the \#):**
 
-<img src="11-Batch_Cloud_Masking_images/media/image80.png"
+<img src="Batch_Cloud_Masking_images/media/image80.png"
 style="width:5.3883in;height:0.99679in"
 alt="Text Description automatically generated" />
 
@@ -94,7 +94,7 @@ alt="Text Description automatically generated" />
     text that says **"Replace_this_text_with_folder_path"** to the path
     of the main folder where your ECOSTRESS files are stored.
 
-<img src="11-Batch_Cloud_Masking_images/media/image9.png"
+<img src="Batch_Cloud_Masking_images/media/image9.png"
 style="width:5.8891in;height:0.99158in"
 alt="Text Description automatically generated" />
 
@@ -104,7 +104,7 @@ alt="Text Description automatically generated" />
     Path**. Now you can paste the path into your code. Make sure it is
     still **wrapped in quotes** and has **r** outside the first quote.
 
-<img src="11-Batch_Cloud_Masking_images/media/image10.png"
+<img src="Batch_Cloud_Masking_images/media/image10.png"
 style="width:2.18141in;height:2.28576in"
 alt="Graphical user interface, text, application Description automatically generated" />
 
@@ -114,13 +114,13 @@ alt="Graphical user interface, text, application Description automatically gener
     it is still **wrapped in quotes** and has **r** outside the first
     quote.
 
-<img src="11-Batch_Cloud_Masking_images/media/image11.png"
+<img src="Batch_Cloud_Masking_images/media/image11.png"
 style="width:5.41218in;height:0.91128in"
 alt="Text Description automatically generated" />
 
 **Example Directory Set-up:**
 
-<img src="11-Batch_Cloud_Masking_images/media/image12.png"
+<img src="Batch_Cloud_Masking_images/media/image12.png"
 style="width:5.8891in;height:0.72104in" />
 
 10. Now the code should be set up to be run with your images. Scroll
@@ -129,7 +129,7 @@ style="width:5.8891in;height:0.72104in" />
     to run. Click into the box with the library importing code and press
     **Shift+Return** to run it.
 
-<img src="11-Batch_Cloud_Masking_images/media/image13.png"
+<img src="Batch_Cloud_Masking_images/media/image13.png"
 style="width:4.16603in;height:1.30856in"
 alt="Graphical user interface, text Description automatically generated with medium confidence" />
 
@@ -137,14 +137,14 @@ alt="Graphical user interface, text Description automatically generated with med
     **select a kernel** to run your code with. Click on **Python
     Environments …**
 
-<img src="11-Batch_Cloud_Masking_images/media/image14.png"
+<img src="Batch_Cloud_Masking_images/media/image14.png"
 style="width:4.61218in;height:0.88597in"
 alt="Graphical user interface Description automatically generated with medium confidence" />
 
 12. Select the **ECOSTRESS** environment that you created, or another
     one if you have a different one you want to use.
 
-<img src="11-Batch_Cloud_Masking_images/media/image15.png"
+<img src="Batch_Cloud_Masking_images/media/image15.png"
 style="width:4.76602in;height:1.45425in"
 alt="Graphical user interface, text, application, email Description automatically generated" />
 
@@ -155,7 +155,7 @@ alt="Graphical user interface, text, application, email Description automaticall
     counting up** in the bottom left of the cell. You will know it is
     done when a **green check mark** appears.
 
-<img src="11-Batch_Cloud_Masking_images/media/image16.png"
+<img src="Batch_Cloud_Masking_images/media/image16.png"
 style="width:2.41987in;height:1.40199in"
 alt="Graphical user interface, text Description automatically generated" />
 
@@ -170,7 +170,7 @@ alt="Graphical user interface, text Description automatically generated" />
 
 **Example:**
 
-<img src="11-Batch_Cloud_Masking_images/media/image17.png"
+<img src="Batch_Cloud_Masking_images/media/image17.png"
 style="width:4.51987in;height:2.73172in"
 alt="A picture containing text Description automatically generated" />
 
@@ -182,14 +182,14 @@ alt="A picture containing text Description automatically generated" />
 
 **Example:**
 
-<img src="11-Batch_Cloud_Masking_images/media/image18.png"
+<img src="Batch_Cloud_Masking_images/media/image18.png"
 style="width:4.65021in;height:3.22782in"
 alt="A picture containing timeline Description automatically generated" />
 
 15. Once your code has run, check your **outputs** folder to make sure
     the files have been saved there correctly.
 
-<img src="11-Batch_Cloud_Masking_images/media/image21.png"
+<img src="Batch_Cloud_Masking_images/media/image21.png"
 style="width:1.61944in;height:2.51271in"
 alt="Text Description automatically generated" />
 
@@ -209,7 +209,7 @@ and thus they will **not** be saved. Alternatively, you may want to
 fix this, look in the **Apply the Cloud Mask to the LST Image** section,
 and find this part of the code:
 
-<img src="11-Batch_Cloud_Masking_images/media/image190.png"
+<img src="Batch_Cloud_Masking_images/media/image190.png"
 style="width:3.32756in;height:1.26028in"
 alt="Text Description automatically generated" />
 
@@ -217,7 +217,7 @@ Highlight that section of the code and press **Command+/** to comment it
 out. This means it will be ignored when the rest of the code runs. You
 will know you have commented it out when it looks like this:
 
-<img src="11-Batch_Cloud_Masking_images/media/image200.png"
+<img src="Batch_Cloud_Masking_images/media/image200.png"
 style="width:3.33526in;height:1.20553in"
 alt="Text Description automatically generated" />
 
